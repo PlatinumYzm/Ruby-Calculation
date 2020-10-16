@@ -1,4 +1,4 @@
-# Ruby-Calculation
+# Ruby-Calculator
 Simple Calculator implemented by Ruby.
 
 Input: Infix expression
